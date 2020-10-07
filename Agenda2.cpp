@@ -1,5 +1,5 @@
-
-//Lucas Alixame
+// Ester Batistela
+// Lucas Alixame
 // Éric dos Santos Ferreira
 // Francisco Neto
 // Felipe Ferreira :)
